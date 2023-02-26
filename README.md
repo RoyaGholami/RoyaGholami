@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**RoyaGholami/RoyaGholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Roya Gholami
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a highly motivated software engineer with a passion for developing high-quality, scalable, and efficient software solutions. With over 5 years of experience in software engineering, I've developed a diverse range of skills and expertise in areas such as full-stack development, cloud computing, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+-   **Programming Languages:**  Python, JavaScript
+-  **Development Frameworks:** Django
+-   **Databases:** SQL Server, Sqlite
+
+## Get in Touch
+
+If you'd like to learn more about my work or connect with me, feel free to reach out to me on LinkedIn. I'm always interested in meeting new people and exploring new opportunities!
